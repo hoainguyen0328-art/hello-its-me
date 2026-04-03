@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/thomas95/practice/.vscode/C/output/bai1'
+relocations:     []
+...
